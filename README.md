@@ -28,6 +28,6 @@ This repository is primarily intended for **learning, experimentation, and refer
 
 Some related materials and resources are available through Google Drive:
 
-**Google Drive:** [Insert Google Drive Link]
+**Google Drive:** [Insert Google Drive Link](https://drive.google.com/drive/folders/1p-AwAr2LLGxO3_OxrPXV42NaMncOF3a3?usp=sharing)
 
 > **Copyright Notice:** Some materials may originate from or be inspired by books, courses, or other copyrighted resources. Use them responsibly and for appropriate educational purposes. Please respect the original authors' and publishers' copyrights and licensing terms.
