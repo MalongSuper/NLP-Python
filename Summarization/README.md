@@ -382,7 +382,7 @@ The n-gram detector only measures **surface-level word overlap**. It cannot dete
 
 ## Purpose
 
-The notebook demonstrates how pretrained Transformer models can be combined with traditional text-processing techniques and custom validation logic to build a more controlled NLP application.
+The system demonstrates how pretrained Transformer models can be combined with traditional text-processing techniques and custom validation logic to build a more controlled NLP application.
 
 Rather than treating summarization as simply:
 
