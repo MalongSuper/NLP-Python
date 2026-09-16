@@ -1,0 +1,74 @@
+Question: How do I reset my password?
+Answer: Open the login page, select 'Forgot password', and follow the instructions.
+
+Question: How can I update my email address?
+Answer: Go to Account Settings, edit your email address, and save the changes.
+
+Question: Where can I view my payment history?
+Answer: Open Billing, then select Payment History.
+
+Question: How do I cancel my subscription?
+Answer: Go to Subscription Settings and select Cancel Subscription.
+
+Question: I need help using the chatbot functionality?
+Answer: Visit the chat section at the top left to use the chatbot.
+
+Question: Where do I submit my completed report?
+Answer: Open the Report section and find the Submit button to upload your report.
+
+Question: Can I schedule a new meeting through the system?
+Answer: Find the Create button at the top right and scroll down to find 'New Meeting' option.
+
+Question: How do I change my username?
+Answer: Go to Account Settings, select your username, enter the new username, and save the changes.
+
+Question: How do I change my profile picture?
+Answer: Open your Profile Settings and select the option to upload a new profile picture.
+
+Question: How can I enable two-factor authentication?
+Answer: Open Security Settings and select Two-Factor Authentication to configure it.
+
+Question: How do I log out of my account?
+Answer: Select your profile menu and click the Log Out option.
+
+Question: How can I check my current subscription plan?
+Answer: Open Subscription Settings to view your current plan and its features.
+
+Question: Where can I upgrade my subscription?
+Answer: Open Subscription Settings and select Upgrade Plan to view the available options.
+
+Question: How do I download an invoice?
+Answer: Open Billing, select Payment History, and choose the invoice you want to download.
+
+Question: How can I contact customer support?
+Answer: Open the Help section and select Contact Support to send a message to the support team.
+
+Question: Where can I find the help documentation?
+Answer: Open the Help section to browse the available documentation and guides.
+
+Question: How do I change my notification settings?
+Answer: Go to Account Settings, open Notifications, and enable or disable the notifications you want.
+
+Question: Can I delete my account?
+Answer: Open Account Settings, select Account Management, and choose Delete Account.
+
+Question: How do I upload a file?
+Answer: Open the appropriate section and select the Upload button to choose a file from your computer.
+
+Question: Where can I view my submitted reports?
+Answer: Open the Report section and select My Reports to view your previously submitted reports.
+
+Question: How do I edit a report after submitting it?
+Answer: Open My Reports, select the report you want to change, and choose Edit if editing is available.
+
+Question: How can I create a new report?
+Answer: Open the Report section and select Create New Report to start a new report.
+
+Question: How do I invite someone to a meeting?
+Answer: Open the meeting details, select Add Participants, and enter the person's information.
+
+Question: Where can I view my upcoming meetings?
+Answer: Open the Meetings section to see your scheduled and upcoming meetings.
+
+Question: How do I cancel a scheduled meeting?
+Answer: Open the meeting details and select Cancel Meeting to cancel the scheduled meeting.

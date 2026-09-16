@@ -1,0 +1,51 @@
+Introduction to Python — Learn Python programming, variables, loops, functions, and data structures.
+Data Science Fundamentals — Study data analysis, visualization, statistics, and practical data science workflows.
+Deep Learning with Neural Networks — Build neural network models for image, text, and prediction tasks.
+Database Systems — Learn relational databases, SQL queries, normalization, and database design.
+Natural Language Processing — Process human language using tokenization, embeddings, transformers, and text analysis.
+Machine Learning Fundamentals — Learn supervised and unsupervised learning, model training, evaluation, and common machine learning algorithms.
+Data Structures and Algorithms — Study arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and algorithmic problem solving.
+Object-Oriented Programming — Learn classes, objects, inheritance, encapsulation, polymorphism, and abstraction using practical programming examples.
+Computer Vision — Explore image processing, object detection, image classification, feature extraction, and computer vision applications.
+Speech Technology and Processing — Study speech signals, audio processing, speech recognition, speech synthesis, and other technologies for working with human speech.
+Mathematics for Computing — Learn mathematical concepts used in programming, computer science, artificial intelligence, and data analysis.
+Linear Algebra with Python — Study vectors, matrices, linear transformations, eigenvalues, and practical linear algebra using Python.
+Calculus with Python — Explore derivatives, integrals, limits, optimization, and symbolic calculus using Python libraries.
+Probability and Statistics — Learn probability distributions, descriptive statistics, hypothesis testing, correlation, and statistical reasoning.
+Numerical Methods — Study numerical techniques for solving equations, interpolation, differentiation, integration, and other computational problems.
+Discrete Mathematics — Learn sets, logic, relations, functions, combinatorics, graphs, and mathematical structures used in computer science.
+Optimization with Python — Study optimization problems, objective functions, constraints, linear programming, and computational optimization techniques.
+SQL Fundamentals — Learn SQL syntax, database queries, filtering, grouping, joins, subqueries, and database operations.
+SQL with Python — Connect Python applications to databases and perform database operations using SQL and Python database libraries.
+Data Analytics with Pandas — Learn how to clean, transform, analyze, aggregate, and explore datasets using Pandas.
+Data Visualization with Python — Create informative visualizations using Matplotlib, Seaborn, and other Python visualization tools.
+Exploratory Data Analysis — Learn techniques for understanding datasets through distributions, correlations, missing values, outliers, and statistical exploration.
+Machine Learning Projects — Apply machine learning techniques to practical projects involving data preparation, modeling, evaluation, and deployment.
+Artificial Intelligence Fundamentals — Study the foundations of artificial intelligence, intelligent agents, search, reasoning, planning, and learning.
+AI Search and Problem Solving — Explore uninformed search, informed search, heuristic methods, optimization-based search, and computational problem solving.
+Game Theory and Artificial Intelligence — Study strategic decision making, games, utility, competitive agents, and game-theoretic approaches in artificial intelligence.
+Reinforcement Learning — Learn how agents learn through rewards and penalties using environments, states, actions, policies, and value functions.
+Computational Intelligence — Explore fuzzy systems, evolutionary algorithms, swarm intelligence, probabilistic methods, and other computational intelligence techniques.
+Generative AI — Learn how modern AI models generate text, images, audio, video, and other types of content.
+Large Language Models — Study the architecture, capabilities, embeddings, prompting, training concepts, and applications of large language models.
+Retrieval-Augmented Generation — Learn how AI systems retrieve external information and combine it with language models to generate grounded responses.
+AI Agents — Study autonomous AI systems that use models, tools, memory, planning, and execution to complete multi-step tasks.
+Advanced AI Development and Tools — Explore modern AI development practices, language models, APIs, retrieval systems, agent frameworks, and AI application tools.
+Transformers and Attention — Understand attention mechanisms, transformer architecture, positional information, and their role in modern language and generative models.
+Convolutional Neural Networks — Learn convolution, pooling, feature maps, image classification, and neural network architectures for computer vision.
+Recurrent Neural Networks — Study recurrent architectures, sequence modeling, hidden states, and applications involving time series and sequential data.
+Time Series Analysis — Analyze sequential data using trends, seasonality, forecasting, moving averages, and predictive modeling.
+Robotics with Python — Program robots using Python and explore sensors, motion, computer vision, control, and robotic applications.
+OpenCV for Computer Vision — Learn image manipulation, filtering, feature detection, video processing, camera calibration, and computer vision with OpenCV.
+TensorFlow and PyTorch — Learn how to build, train, evaluate, and deploy neural network models using popular deep learning frameworks.
+GUI Development with Python — Build graphical applications using Python GUI frameworks such as Tkinter and create interactive user interfaces.
+Python for Practical Applications — Solve common programming problems involving files, automation, APIs, data processing, and everyday software tasks.
+Software Engineering Fundamentals — Learn software development principles, modular design, testing, debugging, version control, and maintainable code.
+UML and Software Design — Study use case, activity, class, sequence, state machine, and entity relationship diagrams for software analysis and design.
+Algorithms and Complexity — Analyze algorithm efficiency using time complexity, space complexity, recurrence relations, and asymptotic notation.
+Advanced Data Structures — Explore heaps, hash tables, balanced trees, graphs, priority queues, and advanced data structure techniques.
+Python for Artificial Intelligence — Apply Python programming, numerical computing, data processing, machine learning, and AI libraries to artificial intelligence problems.
+AI Ethics and Responsible AI — Explore fairness, transparency, privacy, safety, accountability, bias, and responsible development of artificial intelligence systems.
+Information Retrieval — Study document indexing, keyword search, ranking, similarity measures, embeddings, and semantic retrieval systems.
+Text Classification and Semantic Search — Build systems that classify text, compare semantic meaning, generate embeddings, and retrieve relevant documents.
+MLOps and Model Deployment — Learn how to package, deploy, monitor, version, and maintain machine learning models in practical environments.

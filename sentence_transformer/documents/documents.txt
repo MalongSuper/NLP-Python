@@ -1,0 +1,100 @@
+Python is a popular programming language for data science.
+Deep learning uses neural networks with multiple layers.
+A database stores and organizes structured information.
+Computer networks allow devices to communicate with one another.
+Natural language processing enables computers to work with human language.
+Machine learning allows computers to learn patterns from data.
+Artificial intelligence enables machines to perform tasks that normally require human intelligence.
+Supervised learning trains models using labeled training data.
+Unsupervised learning discovers hidden patterns in unlabeled data.
+Reinforcement learning uses rewards and penalties to train an agent.
+Computer vision enables computers to understand and analyze images.
+Speech recognition converts spoken language into text.
+Generative AI can create text, images, audio, and other types of content.
+Large language models are trained on large collections of text data.
+Transformers use attention mechanisms to process sequences efficiently.
+Neural networks are inspired by the structure of biological neurons.
+Convolutional neural networks are commonly used for image classification.
+Recurrent neural networks can process sequential and time-dependent data.
+Natural language processing includes tasks such as translation and sentiment analysis.
+Chatbots use artificial intelligence to communicate with users through natural language.
+Recommendation systems suggest products or content based on user preferences.
+Anomaly detection identifies unusual patterns in datasets.
+Classification models assign data points to predefined categories.
+Regression models predict continuous numerical values.
+Clustering groups similar data points together.
+Feature engineering creates useful input variables for machine learning models.
+Training data is used to teach a machine learning model.
+Test data is used to evaluate how well a trained model generalizes.
+Cross-validation helps estimate the performance of a machine learning model.
+Overfitting occurs when a model learns the training data too closely.
+Underfitting occurs when a model is too simple to capture important patterns.
+A confusion matrix summarizes the predictions of a classification model.
+Precision measures how many predicted positive cases are actually positive.
+Recall measures how many actual positive cases are correctly identified.
+The F1 score combines precision and recall into a single metric.
+Data preprocessing prepares raw data for analysis and machine learning.
+Normalization scales numerical values to a common range.
+Standardization transforms numerical data using its mean and standard deviation.
+Missing values can be handled by removing records or estimating replacement values.
+Pandas provides tools for manipulating and analyzing tabular data in Python.
+NumPy provides efficient operations for numerical arrays in Python.
+Matplotlib is a Python library commonly used to create data visualizations.
+Scikit-learn provides many machine learning algorithms and utilities.
+TensorFlow is a framework for developing and training machine learning models.
+PyTorch is a popular framework for building and training neural networks.
+SQL is used to query and manage relational databases.
+A relational database organizes information into tables containing rows and columns.
+Primary keys uniquely identify records in a database table.
+Foreign keys establish relationships between tables in a relational database.
+An index can improve the speed of database queries.
+Cloud computing provides computing resources through internet-based services.
+Virtual machines allow multiple operating systems to run on shared physical hardware.
+Containers package applications together with their dependencies.
+Docker is a popular platform for building and running containers.
+Kubernetes is used to orchestrate and manage containerized applications.
+APIs allow different software applications to communicate with each other.
+REST APIs commonly use HTTP methods such as GET, POST, PUT, and DELETE.
+Git is a version control system used to track changes in source code.
+GitHub provides hosting and collaboration features for Git repositories.
+Cybersecurity protects computer systems, networks, and data from unauthorized access.
+Encryption converts readable information into a protected form.
+Authentication verifies the identity of a user or system.
+Authorization determines which resources an authenticated user can access.
+Blockchain stores data in a distributed and tamper-resistant ledger.
+Robotics combines software, hardware, sensors, and control systems to build intelligent machines.
+Computer algorithms provide step-by-step procedures for solving computational problems.
+Data structures organize and store data so that it can be accessed efficiently.
+Arrays store collections of elements in contiguous memory locations.
+Linked lists connect data elements using references between nodes.
+Stacks follow the last-in-first-out principle when storing and retrieving elements.
+Queues follow the first-in-first-out principle when processing elements.
+Binary search efficiently finds an element in a sorted collection.
+Hash tables provide fast access to values using key-value pairs.
+Trees represent hierarchical relationships between data elements.
+Graphs represent relationships between connected objects or entities.
+Breadth-first search explores a graph level by level.
+Depth-first search explores as far as possible before backtracking.
+Sorting algorithms arrange data according to a specified ordering.
+Merge sort divides data into smaller parts before combining sorted results.
+Quick sort uses a selected pivot to partition data into smaller groups.
+Dynamic programming solves complex problems by storing results of smaller subproblems.
+Greedy algorithms make locally optimal choices while constructing a solution.
+Recursion allows a function to solve a problem by calling itself on smaller inputs.
+Object-oriented programming organizes software around objects and classes.
+Encapsulation combines data and methods while controlling access to internal details.
+Inheritance allows a class to reuse properties and methods from another class.
+Polymorphism allows different objects to respond to the same operation in different ways.
+Abstraction hides unnecessary implementation details from users of a system.
+Software testing helps identify errors and verify that applications behave correctly.
+Unit testing checks individual functions or components of a software system.
+Debugging is the process of finding and fixing errors in computer programs.
+Compilers translate source code into a form that can be executed by a computer.
+Operating systems manage hardware resources and provide services for applications.
+File systems organize and manage files and directories on storage devices.
+Distributed systems coordinate multiple computers to work together as a single system.
+The Internet connects computer networks around the world using standardized protocols.
+HTTP is a protocol commonly used for communication between web clients and servers.
+Machine learning models can use hyperparameters to control the training process.
+Gradient descent is an optimization method commonly used to train machine learning models.
+Artificial neural networks adjust their weights during training to reduce prediction errors.

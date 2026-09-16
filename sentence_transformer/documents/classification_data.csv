@@ -1,0 +1,161 @@
+text,label
+I forgot my password,account
+How can I change my username?,account
+I want to update my profile,account
+My login isn't working,account
+Can I recover my account?,account
+How do I reset my password?,account
+I cannot sign in to my account,account
+Where can I change my email address?,account
+I need to update my personal information,account
+My account is locked,account
+How do I change my account password?,account
+I forgot which email I used for my account,account
+Can I change my username?,account
+I cannot access my profile,account
+How do I unlock my account?,account
+I want to delete my account,account
+How can I create a new account?,account
+My account information is incorrect,account
+I need help signing into my account,account
+Can I update my profile information?,account
+I forgot my login details,account
+How do I change the email linked to my account?,account
+Someone changed my account information,account
+I need to recover my username,account
+Why was my account locked?,account
+I want to deactivate my account,account
+How can I edit my profile?,account
+My password no longer works,account
+Can I register another account?,account
+I need to regain access to my account,account
+How do I verify my account?,account
+I cannot remember my username,account
+I want to change my account details,account
+My sign-in credentials are not working,account
+How can I recover access to my profile?,account
+I need to change my login email,account
+Where are my account settings?,account
+I entered the wrong profile information,account
+Can I restore a deleted account?,account
+My account has been disabled,account
+My payment was declined,billing
+Where is my invoice?,billing
+How do I update my credit card?,billing
+Why was I charged twice?,billing
+I need a refund,billing
+Why did my payment fail?,billing
+Can I get a copy of my receipt?,billing
+How do I change my billing information?,billing
+I was charged the wrong amount,billing
+When will my refund arrive?,billing
+What payment methods do you accept?,billing
+Why is there an extra charge?,billing
+How can I update my payment method?,billing
+I need to download my invoice,billing
+My card was charged but the order failed,billing
+Can I receive a refund for my purchase?,billing
+Where can I see my billing history?,billing
+Why was my card payment rejected?,billing
+I was billed twice for the same order,billing
+How do I request a refund?,billing
+My invoice has incorrect information,billing
+Can I pay with a different card?,billing
+When is my next payment due?,billing
+I don't recognize this charge,billing
+How can I view my receipts?,billing
+My subscription payment failed,billing
+How do I update my billing address?,billing
+The amount charged is different from the price,billing
+Can you explain this charge on my account?,billing
+I need help with a payment,billing
+How long does a refund take?,billing
+Where can I find my payment history?,billing
+My credit card expired,billing
+Can I change the card used for payment?,billing
+Why did I receive an unexpected invoice?,billing
+I was charged after cancelling my service,billing
+Can I get an electronic receipt?,billing
+My refund has not arrived,billing
+Why is my transaction still pending?,billing
+I need to dispute a charge,billing
+The application crashes when I open it,technical
+The website shows an error message,technical
+The software is not working correctly,technical
+The mobile app freezes frequently,technical
+I can't install the update,technical
+The application keeps crashing,technical
+The website is not loading,technical
+The app stopped responding,technical
+I am seeing an unexpected error,technical
+The latest update will not install,technical
+The program closes by itself,technical
+The app is extremely slow,technical
+I cannot open the application,technical
+The website keeps displaying an error,technical
+My software stopped working,technical
+The mobile application is frozen,technical
+I am unable to download the update,technical
+The program is producing errors,technical
+The app crashes every time I start it,technical
+The page is not responding,technical
+Why does the application keep freezing?,technical
+The software update failed,technical
+I cannot get the website to load,technical
+The app has become unstable,technical
+There is a technical problem with the application,technical
+The website suddenly stopped working,technical
+I am getting an error when using the software,technical
+The application is stuck on the loading screen,technical
+My app will not start,technical
+The system is showing an unexpected error,technical
+The update keeps failing,technical
+The website freezes when I open it,technical
+The program is not responding to clicks,technical
+I cannot launch the mobile app,technical
+The application became unresponsive,technical
+The website is experiencing technical issues,technical
+My software is behaving unexpectedly,technical
+The app closes whenever I try to use it,technical
+I cannot complete the software installation,technical
+The application has stopped responding,technical
+Where is my order?,shipping
+My package is delayed,shipping
+How can I track my delivery?,shipping
+I received the wrong item,shipping
+Can I change my delivery address?,shipping
+When will my package arrive?,shipping
+My order has not arrived yet,shipping
+Where can I find my tracking number?,shipping
+The delivery is taking too long,shipping
+My package was delivered to the wrong address,shipping
+How do I track my package?,shipping
+Can I change the shipping address?,shipping
+The wrong product was delivered,shipping
+My shipment is late,shipping
+When should I expect my delivery?,shipping
+The tracking information has not updated,shipping
+My package appears to be lost,shipping
+Can I choose a different delivery address?,shipping
+The courier has not delivered my order,shipping
+Where is my shipment?,shipping
+How long will shipping take?,shipping
+My order is still in transit,shipping
+I received someone else's package,shipping
+Can I change the delivery date?,shipping
+The package arrived damaged,shipping
+Why has my shipment been delayed?,shipping
+I need help tracking an order,shipping
+My delivery status has not changed,shipping
+The package was sent to the wrong place,shipping
+Can I update the address for my order?,shipping
+The delivery driver could not find my address,shipping
+My package has not been delivered,shipping
+I received a damaged package,shipping
+When will my order be shipped?,shipping
+How can I check the status of my delivery?,shipping
+My order was delivered but I did not receive it,shipping
+Can I request faster shipping?,shipping
+The tracking number is not working,shipping
+My delivery is missing,shipping
+Where can I see my shipping status?,shipping
