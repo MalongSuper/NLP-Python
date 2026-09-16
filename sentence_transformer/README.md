@@ -36,4 +36,4 @@ print(embeddings.shape)
 * **Recommender Systems:** Recommend documents, products, or content based on semantic similarity.
 * **Semantic Search:** Retrieve relevant information based on meaning rather than exact keyword matches.
 
-For a detailed model description, architecture, training procedure, and intended uses, visit the [Hugging Face model card](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
+For a detailed model description, architecture, training procedure, and intended uses, visit the link: [https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers).
